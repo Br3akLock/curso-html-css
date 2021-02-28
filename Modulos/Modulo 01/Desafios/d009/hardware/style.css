@@ -1,0 +1,12 @@
+* {
+    font-family: consolas;
+}
+body {
+    background: black;
+}
+h1 {
+    color: white;
+}
+div {
+    text-align: center;
+}
