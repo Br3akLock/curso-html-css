@@ -1,0 +1,25 @@
+/*
+FONTES SEGURAS
+
+- https://www.w3schools.com/cssref/css_websafe_fonts.asp
+
+Arial (sans-serif)
+Verdana (sans-serif)
+Helvetica (sans-serif)
+Tahoma (sans-serif)
+Trebuchet MS (sans-serif)
+Times New Roman (serif)
+Georgia (serif)
+Garamond (serif)
+Courier New (monospace)
+Brush Script MT (cursive)
+
+Observação: antes de publicar seu site, sempre verifique como suas fontes aparecem em diferentes navegadores e dispositivos e sempre use fontes substitutas!
+
+        font-family: Arial, Helvetica, sans-serif;
+
+    Utilizar sempre a "sans-serif" no fim das Fontes pois todos os navegadores aceitam ela
+*/
+body {
+        font-family: monospace;
+    }
