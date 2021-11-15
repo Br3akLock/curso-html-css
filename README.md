@@ -3,5 +3,6 @@
 
  Modulo feito: 
  - 01
+ - 02
 
  Curso feito em cursoemvideo.com
