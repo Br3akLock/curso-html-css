@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+/*
+    IDS (So pode um elemento em cada arquivo HTML)
+ HTML = id=""
+ CSS = #nome_do_id
+
+    Classes (Pode varios elementos em cada arquivo HTML)
+ HTML = class
+ CSS = .
+*/
+
+body {
+    background-color: #9C92F5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: #222036;
+}
+h2 {
+    color: #4B4675;
+}
+p {
+    text-indent: 20px;
+}
+.titulo {
+    color: #467275;
+    text-align: center;
+}
+.basico {
+    color: #714675;
+    font-weight: bold;
+}
+.intermediario {
+    color: #46754e;
+}
+.avancado {
+    color: #467375;
+}
+.destaque {
+    background-color: yellow;
+}
