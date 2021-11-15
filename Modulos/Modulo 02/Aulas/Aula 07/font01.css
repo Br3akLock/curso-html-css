@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,100;1,300&display=swap');
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    color: black;
+}
+h1, h2 {
+    font-family: 'Kaushan Script', cursive;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+}
