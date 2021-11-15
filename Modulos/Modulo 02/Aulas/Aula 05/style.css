@@ -1,0 +1,30 @@
+/*
+
+    Medidas Absolutas:
+        - cm = Centimetro
+        - mm  = Milimetro
+        - in = inches/Polegada
+        - px = pixels
+        - pt = points
+        - pc = paica
+
+    pt e pc não é recomendado usar em material impresso em tela 
+
+    Medidas Relativas:
+        - em = Ems / É a medida relativa ao tamanho atual da fonte
+        - ex = É o tamanho da altura-x
+        - rem = relativa ao root (a font q esta configurada no body)
+        - vw = Largura da Viewport
+        - vh = Altura da Viewport
+        - %
+
+Medida de font o W3C recomenda usar as medidas: px, em
+
+16px geralmente é = 1em
+
+
+*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
