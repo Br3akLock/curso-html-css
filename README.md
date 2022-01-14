@@ -2,7 +2,13 @@
  Primeiro repositório do curso de HTML5 e CSS3
 
  Modulo feito: 
- - 01
- - 02
+ - Modulo 01
+ - Modulo 02
+ - Modulo 03
 
- Curso feito em cursoemvideo.com
+ Desafios feito: 
+ - Modulo 01
+ - Modulo 02
+ - Modulo 03
+
+ Curso feito em <a href="cursoemvideo.com" target="_blank">CursoEmVideo</a> 
